@@ -1,1 +1,1 @@
-开始学习Django
+python web框架Django的学习过程
